@@ -20,8 +20,10 @@
          "contact": 7010232170,
          "balance": "500IND"
     }
-    ],
-  "ask": [
+    ]
+ }
+{
+ "ask": [
     {
         "id": 1,
         "name": "R.Ashok Kumar",
@@ -32,4 +34,4 @@
          "contact": 701023210,
     }
     ]
- }
+}
