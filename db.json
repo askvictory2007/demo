@@ -21,17 +21,4 @@
          "balance": "500IND"
     }
     ]
- },
-{
- "ask": [
-    {
-        "id": 1,
-        "name": "R.Ashok Kumar",
-        "uid":"eQqgGTjJbkQ13i19LrX0zi8a7163",
-         "age": 23,
-         "address": "Redhills villivakkam",
-         "city":"Chennai",
-         "contact": 701023210,
-    }
-    ]
-}
+ }
