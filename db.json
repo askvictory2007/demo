@@ -1,24 +1,4 @@
  {
-    "ashok": [
-    {
-        "id": 1,
-        "name": "R.Ashok Kumar",
-        "uid":"eQqgGTjJbkQ13i19LrX0zi8a7163",
-         "age": 23,
-         "address": "Redhills villivakkam",
-         "city":"Chennai",
-         "contact": 701023210,
-         "email":"askvictory2007@gmail.com",
-         "balance": "₹1000"    },
-    {
-        "id": 2,
-        "name": "R.Ashok",
-        "uid":"eQqgGTjJbkQ13i19LrX0zi8a7163",
-         "age": 25,
-         "address": "villivakkam",
-         "city":"Chennai",
-         "contact": 7010232170,
-         "balance": "500IND"
-    }
-    ]
+   "title": "",
+  "body":""
  }
